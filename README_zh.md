@@ -81,4 +81,4 @@ src/theme.ts         浅色与深色配色
 
 ## 许可证
 
-MIT，见 [LICENSE](LICENSE)。
+Apache 2.0，见 [LICENSE](LICENSE)。

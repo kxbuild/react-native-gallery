@@ -81,4 +81,4 @@ To add a demo, write a component in `src/demos/` and add an entry to `categories
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+Apache 2.0. See [LICENSE](LICENSE).
